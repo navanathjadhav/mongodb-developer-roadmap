@@ -22,5 +22,5 @@ If you think this project is helpful [share it on Twitter](https://twitter.com/i
 
 You are always welcome to help to make this project more knowledgeable and helpful for other developers.
 
-Submit a PR.
+Just submit a PR.
 
