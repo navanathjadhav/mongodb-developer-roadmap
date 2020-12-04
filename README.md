@@ -1,6 +1,6 @@
 # MongoDB Developer Roadmap
 
-This project includes the roadmap for learning mongoDB from scratch
+This project includes the roadmap for learning mongoDB from scratch <br>
 Inspiration from ["Angular Developer Roadmap"](https://github.com/sulco/angular-developer-roadmap/)
 
 ## Roadmap
