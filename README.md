@@ -1,9 +1,6 @@
 # MongoDB Developer Roadmap
 
 This project includes the roadmap for learning mongoDB from scratch
-
-<br>
-
 Inspiration from ["Angular Developer Roadmap"](https://github.com/sulco/angular-developer-roadmap/)
 
 ## Roadmap
@@ -16,7 +13,7 @@ Get a [PDF version](./mongodb-dev-roadmap.pdf).
 
 ## Share & Care
 
-If you think this project is helpful [share it on Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/mongodb-developer-roadmap)
+If you think this project is helpful share it on [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/mongodb-developer-roadmap)
 
 ## Contribute
 
