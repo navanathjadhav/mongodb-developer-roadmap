@@ -1,9 +1,9 @@
 # MongoDB Developer Roadmap
 
 This project includes the roadmap for learning mongoDB from scratch. All possible tools and concepts related to MongoDB has been covered in this roadmap.
-
 <br>
-Inspiration from ["Angular Developer Roadmap"](https://github.com/sulco/angular-developer-roadmap/)
+
+Inspiration from [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap/)
 
 ## Roadmap
 
