@@ -1,6 +1,7 @@
 # MongoDB Developer Roadmap
 
-This project includes the roadmap for learning mongoDB from scratch. 
+This project includes the roadmap for learning mongoDB from scratch. All possible tools and concepts related to MongoDB has been covered in this roadmap.
+
 <br>
 Inspiration from ["Angular Developer Roadmap"](https://github.com/sulco/angular-developer-roadmap/)
 
@@ -96,7 +97,7 @@ Get a [PDF version](./mongodb-dev-roadmap.pdf).
 If you think this project is helpful share it on [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/mongodb-developer-roadmap)
 
 ## Read More
-Read more abount this on Ever Blogs: [MongoDB Developer Roadmap for 2021 | Ever Blogs](https://everblogs.com/database/mongodb-developer-roadmap-for-2021/)
+View detailed article on Ever Blogs: [MongoDB Developer Roadmap for 2021 | Ever Blogs](https://everblogs.com/database/mongodb-developer-roadmap-for-2021/)
 <br>
 Please visit [Ever Blogs](https://everblogs.com/) to read interesting blogs on other Technologies.
 
