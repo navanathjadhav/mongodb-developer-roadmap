@@ -5,6 +5,9 @@ This project includes the roadmap for learning mongoDB from scratch. All possibl
 
 Inspiration from [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap/)
 
+## Give a Star ⭐
+If you liked this project or found it helpful for learning MongoDB then please give it a star. It will keep motivating me do more! Thanks.
+
 ## Roadmap
 
 ![Roadmap](./mongodb-dev-roadmap.png)
