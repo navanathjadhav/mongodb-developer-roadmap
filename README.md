@@ -2,6 +2,7 @@
 
 This project includes the roadmap for learning mongoDB from scratch. All possible tools and concepts related to MongoDB has been covered in this roadmap.
 <br>
+* Language: [:ind: मराठी](README.MR.md) | [:uk: English](/README.md)
 
 Inspiration from [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap/)
 
