@@ -95,9 +95,9 @@
       - [Object Rocket](https://www.objectrocket.com/)
 
 
-## शेअर/सामायिक करा
+## शेअर करा
 
-हा प्रकल्प उपयुक्त असल्याचे आपल्याला वाटत असल्यास [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/mongodb-developer-roadmap) वर शेअर/सामायिक करा
+हा प्रकल्प उपयुक्त असल्याचे आपल्याला वाटत असल्यास [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/mongodb-developer-roadmap) वर शेअर करा
 
 ## अधिक वाचा
 Ever Blogs वर तपशीलवार लेख पहा: [MongoDB Developer Roadmap for 2021 | Ever Blogs](https://everblogs.com/database/mongodb-developer-roadmap-for-2021/)
